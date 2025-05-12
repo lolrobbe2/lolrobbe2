@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 # 📫 How to reach me
 
