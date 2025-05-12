@@ -49,54 +49,60 @@ Here are some ideas to get you started:
 ## Premake tools
 
 <p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager&theme=vision-friendly-dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager&theme=ambient-gradient"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager"
-      alt="Premake Manager Repo"
-    />
-  </picture>
+  <a href="https://github.com/lolrobbe2/premake-manager">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager&theme=vision-friendly-dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager&theme=solarized-light"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager"
+        alt="Premake Manager Repo"
+      />
+    </picture>
+  </a>
 </p>
 
 <p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager-cli&theme=vision-friendly-dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager-cli&theme=ambient-gradient"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager-cli"
-      alt="Premake Manager CLI Repo"
-    />
-  </picture>
+  <a href="https://github.com/lolrobbe2/premake-manager-cli">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager-cli&theme=vision-friendly-dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager-cli&theme=solarized-light"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager-cli"
+        alt="Premake Manager CLI Repo"
+      />
+    </picture>
+  </a>
 </p>
 
 <p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager-vs&theme=vision-friendly-dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager-vs&theme=ambient-gradient"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager-vs"
-      alt="Premake Manager VS Repo"
-    />
-  </picture>
+  <a href="https://github.com/lolrobbe2/premake-manager-vs">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager-vs&theme=vision-friendly-dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager-vs&theme=solarized-light"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager-vs"
+        alt="Premake Manager VS Repo"
+      />
+    </picture>
+  </a>
 </p>
 
 
