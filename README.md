@@ -48,6 +48,14 @@ Here are some ideas to get you started:
 
 ## Premake tools
 
+Stay up to date with Premake tool on the [GitHub Project Board](https://github.com/users/lolrobbe2/projects/3):
+<p align="center">
+    <a href="https://github.com/users/lolrobbe2/projects/3">
+    <img 
+        src="https://img.shields.io/badge/-View%20Project%20Board-181717?style=for-the-badge&logo=github&logoColor=white" 
+        alt="GitHub Project Board" />
+    </a>
+</p>
 <p align="center">
   <a href="https://github.com/lolrobbe2/premake-manager">
     <picture>
