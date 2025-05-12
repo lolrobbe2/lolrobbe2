@@ -16,5 +16,89 @@ Here are some ideas to get you started:
 
 ![Header](./github-header-image.png)
 
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lolrobbe2&show_icons=true&theme=vision-friendly-dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lolrobbe2&show_icons=true&theme=ambient_gradient"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lolrobbe2&show_icons=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lolrobbe2&hide=TypeScript,Python,CMake&layout=compact&theme=vision-friendly-dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lolrobbe2&hide=TypeScript,Python,CMake&layout=compact&theme=ambient_gradient"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolrobbe2&hide=TypeScript,Python,CMake&layout=compact"
+    alt="Top languages"
+  />
+</picture>
+
+# repositories
+
+## Premake tools
+
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager&theme=vision-friendly-dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager&theme=ambient-gradient"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager"
+      alt="Premake Manager Repo"
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager-cli&theme=vision-friendly-dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager-cli&theme=ambient-gradient"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager-cli"
+      alt="Premake Manager CLI Repo"
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager-vs&theme=vision-friendly-dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager-vs&theme=ambient-gradient"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=lolrobbe2&repo=premake-manager-vs"
+      alt="Premake Manager VS Repo"
+    />
+  </picture>
+</p>
+
+
 # 📫 How to reach me
 
