@@ -10,7 +10,7 @@ category: Project Management
 description: Premake Manager is the visual studio code extension to manage projects using premake
 ---
 
-Premake Manger is the extension to manage all you premake projects cross platform and seamlesly across IDE's
+
 
 {% raw %}
 <p align="center">
@@ -32,3 +32,20 @@ Premake Manger is the extension to manage all you premake projects cross platfor
   </a>
 </p>
 {% endraw %}
+
+Premake Manager was born for the simple reason that projects like [Premake](https://github.com/premake/premake-core) need seamless intergration and interactebility. When i started contributing to premake, there where no plugins, extensions...
+
+So as what happens often in open-source development, i made it myself!
+
+Now a after a couple of iterations premake-manager has a some new siblings: [Premake Manager CLI](https://github.com/lolrobbe2/premake-manager-cli), [Premaker VS](https://github.com/ColtMcG1/Premaker) and many more on the way!
+
+---
+
+Stay up to date with Premake tools on the [GitHub Project Board](https://github.com/users/lolrobbe2/projects/3):
+<p align="center">
+    <a href="https://github.com/users/lolrobbe2/projects/3">
+    <img 
+        src="https://img.shields.io/badge/-View%20Project%20Board-181717?style=for-the-badge&logo=github&logoColor=white" 
+        alt="GitHub Project Board" />
+    </a>
+</p>

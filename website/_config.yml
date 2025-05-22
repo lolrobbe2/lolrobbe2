@@ -33,9 +33,6 @@ color:
 # Footer settings
 footer:
   copyright: Robbe Beernert
-  location: Location
-  social: https://github.com/lolrobbe2
-  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
