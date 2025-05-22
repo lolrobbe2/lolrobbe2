@@ -69,4 +69,4 @@ kramdown:
 
 # Ensure the 'files' folder is included in the build even if ignored elsewhere
 include:
-  - files
+  - files/**
