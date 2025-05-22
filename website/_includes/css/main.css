@@ -96,6 +96,17 @@ header img {
     margin: 0 auto 20px;
 }
 
+header img.img-responsive {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 25rem;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 50%;
+    background-color: #2a3a3f;
+}
+
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
@@ -198,6 +209,7 @@ section.success {
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
+    border-radius: 10rem;
 }
 
 #portfolio .portfolio-item .portfolio-link {
@@ -481,4 +493,67 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+
+
+.portfolio-img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    aspect-ratio: 4 / 3;
+    height: auto;
+    object-fit: scale-down;
+    border-radius: 0.5rem;
+    background-color: #e0e0e0;
+    /* fallback for transparent SVGs */
+    padding: 5%;
+}
+
+.about-link {
+    background-color: #1f2b2e;
+    /* dark grey-blue */
+    padding: 1.5rem;
+    border-radius: 1rem;
+    color: #d8f3dc;
+    /* light greenish text */
+    font-size: clamp(1rem, 2.5vw, 1.2rem);
+    line-height: 1.6;
+}
+
+.about-link a {
+    color: #95d5b2;
+    /* soft green */
+    text-decoration: underline dotted;
+    transition: color 0.3s ease;
+}
+
+.about-link a:hover,
+.about-link a:focus {
+    color: #52b788;
+    /* brighter green on hover */
+    text-decoration: underline solid;
+}
+
+.about-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.about-link {
+    flex: 1 1 30rem;
+    background-color: #1d2b2f;
+    /* dark bluish gray-green tone */
+    color: #e0f5e9;
+    /* soft greenish text */
+    padding: 2rem;
+    border-radius: 1rem;
+    min-height: 15rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: clamp(1rem, 2.5vw, 2rem);
 }
