@@ -13,7 +13,7 @@ description: Premake Manager is the visual studio code extension to manage proje
 
 
 {% raw %}
-<p align="center">
+<p class="repo-banner">
   <a href="https://github.com/lolrobbe2/premake-manager">
     <picture>
       <source
