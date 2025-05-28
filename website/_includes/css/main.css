@@ -599,15 +599,15 @@ footer .footer-below {
 .repo-banner {
     display: flex;
     justify-content: center;
-    max-width: 100%;
-    padding-inline: 1rem;
+    padding: clamp(1rem, 5vw, 4rem);
     box-sizing: border-box;
 }
 
 .repo-banner img.repo-image {
     width: 100%;
     max-width: 40rem;
-    /* limits width to avoid being too large on big screens */
     height: auto;
     display: block;
+    border-radius: 0.5rem;
+    /* Optional: smooths the image corners */
 }
