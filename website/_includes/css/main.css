@@ -595,3 +595,19 @@ footer .footer-below {
         margin-bottom: 1rem;
     } 
 }
+
+.repo-banner {
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+    padding-inline: 1rem;
+    box-sizing: border-box;
+}
+
+.repo-banner img.repo-image {
+    width: 100%;
+    max-width: 40rem;
+    /* limits width to avoid being too large on big screens */
+    height: auto;
+    display: block;
+}
