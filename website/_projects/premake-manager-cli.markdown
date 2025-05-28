@@ -38,7 +38,7 @@ description: Premake Manager CLI is the powerhouse that drives the premake exten
 
 {% raw %}
 <div class="centered-bordered-image">
-  <img src="../img/portfolio/premak-manager-cli.png" alt="premake manager cli" />
+  <img src="/img/portfolio/premak-manager-cli.png" alt="premake manager cli" />
 </div>
 {% endraw %}
 
