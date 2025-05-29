@@ -60,6 +60,8 @@ defaults:
 collections:
   projects:
     output: true
+  blogs:
+    output: true
 
 kramdown:
   input: GFM

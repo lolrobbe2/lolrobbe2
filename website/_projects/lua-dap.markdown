@@ -12,6 +12,7 @@ description: Debug Adpter Server implementation for Lua using lua socket
 
 
 {% raw %}
+
 <p class="repo-banner">
   <a href="https://github.com/lolrobbe2/luadap">
     <picture>
@@ -51,7 +52,7 @@ description: Debug Adpter Server implementation for Lua using lua socket
 </p>
 {% endraw %}
 
-While devoloping a couple features for [Premake5](https://github.com/premake/premake-core) i kept hitting a major hurdle, wich was the fact that there was no modern up-to-date debugger for usage during active development, except [mobdebug](https://github.com/pkulchenko/MobDebug) wich can be considered deprecated as there has been no active development been done.
+While developing a couple features for [Premake5](https://github.com/premake/premake-core) i kept hitting a major hurdle, wich was the fact that there was no modern up-to-date debugger for usage during active development, except [mobdebug](https://github.com/pkulchenko/MobDebug) wich can be considered deprecated as there has been no active development been done.
 
 You also had to use a special IDE for debugging, wich was not really straight forward in usage.
 
