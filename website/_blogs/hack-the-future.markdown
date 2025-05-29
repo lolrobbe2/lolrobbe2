@@ -14,7 +14,7 @@ On the morning of 19 November 2024 i got up at rougly 4:30 to get dressed and un
 
 # The Hackathon 
 
-Me and my fello student/partner signed up for the .NET challenges, and boy where we challenged. from flying a spaceship to solving intergalatic riddles using C#.
+Me and my fellow student/partner signed up for the .NET challenges, and boy where we challenged. from flying a spaceship to solving intergalatic riddles using C#.
 
 It was an incredible experience to attempt to crack the challenges they threw at us. These where also the kind of challenges where you don't have to code allot but think about algorithms etc. Wich was exactly the kind of challenge i craved.
 
