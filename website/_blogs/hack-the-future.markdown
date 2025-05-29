@@ -12,7 +12,7 @@ description: Hack The Future Hackathon
 
 On the morning of 19 November 2024 i got up at rougly 4:30 to get dressed and unlike my partner for the day i was able to drink a morning coffee. As Today was going to be a tough day, because wehere going to Hack The Future wich is a hackathon for Students from every branch of the IT sector. After jamming to some tunes in my car using my own android auto music player application i arrived in Bruge to take the bus. once on the bus everybody slept until we where there.
 
-# The Hackathon 
+# The Hackathon
 
 Me and my fellow student/partner signed up for the .NET challenges, and boy where we challenged. from flying a spaceship to solving intergalatic riddles using C#.
 
