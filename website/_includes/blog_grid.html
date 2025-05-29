@@ -10,13 +10,13 @@
         <div class="blog-flex-row">
             {% for blog in site.blogs %}
             <div class="blog-flex-item blog-item">
-            <a href="#blogModal-{{ project.modal-id }}" class="blog-link" data-toggle="modal">
+            <a href="#blogModal-{{ blog.modal-id }}" class="blog-link" data-toggle="modal">
                 <div class="caption">
                 <div class="caption-content">
                     <i class="fa fa-search-plus fa-3x"></i>
                 </div>
                 </div>
-                <img src="img/blog/{{ project.img }}" class="blog-img" alt="{{ project.alt }}" />
+                <img src="img/blog/{{ blog.img }}" class="blog-img" alt="{{ blog.alt }}" />
             </a>
             </div>
             {% endfor %}
