@@ -5,10 +5,8 @@ date: 2025-02-25
 img: tech-and-meet-banner.webp
 alt: tech and meet banner
 project-date: April 2014
-description: TryHackMe
+description: Try Hack Me journey from student to carreer
 ---
-
-# Try Hack Me journey from student to carreer.
 
 on the 25th of Februari i had nothing planned in the evening that week so i decided to go to the Tech & Meet session about TryHackMe hosted on campus.
 the session was presented by Niels Deryckere, an alumnus of Howest with a passion for ethical hacking and vulnerability research.
