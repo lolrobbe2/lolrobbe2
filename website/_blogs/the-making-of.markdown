@@ -21,4 +21,7 @@ I choose jekyl as hugo was just not good enough and docusaurus was to rigid. Jek
 
 So before i did anything i looked trough the template to get my bearings after that i threw all the template parts out and started with making my portfolio, because the site is automaticly updated by github actions it is very easy to make minor changes and apply these. After having made the portfolio i copied the html and css used for the portfolio and applied it for my blog posts, ofcoarse with a couple of changes for the blogposts. because jekyll uses markdown to generate the website it is very easy to write a new blog post or change my portfolio later on ensuring it stays maintainable longterm and has free hosting by github.
 
+I also chose to use only visual pictures that give a small glimpse,  wich also forces the reader to discover the portfolio fully.
+I also wanted there to be a brief introductory whit a button to download my CV, wich i was able to with some Prompt Engineering and AI usage.
+
 Making a good portfolio site does not always have to be hard or expensive or need WordPress. No jekyll makes it very easy for you to host your own blog, portfolio, project documentation for free with github pages.
