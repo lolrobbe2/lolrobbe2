@@ -62,6 +62,8 @@ collections:
     output: true
   blogs:
     output: true
+  about:
+    output: true
 
 kramdown:
   input: GFM

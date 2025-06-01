@@ -457,3 +457,20 @@ footer .footer-below {
     border-radius: 0.5rem;
     /* Optional: smooths the image corners */
 }
+
+.rounded-image-wrapper {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 25rem;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 50%;
+    background-color: #2a3a3f;
+}
+
+.rounded-image-wrapper img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: contain !important;
+}
