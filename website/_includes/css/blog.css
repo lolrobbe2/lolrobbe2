@@ -63,6 +63,14 @@
 
 /* Flexbox blog Grid */
 @media (min-width: 640px) {
+    .blog-title {
+            font-size: clamp(1.25rem, 4vw, 3.5rem) !important;
+            color: #333;
+            text-align: center;
+            text-transform: uppercase;
+            font-weight: bold;
+            padding: 1rem 0;
+        }
     .blog-flex-grid .blog-flex-row {
         display: flex;
         flex-flow: row wrap;
@@ -162,4 +170,18 @@
     background-color: #e0e0e0;
     /* fallback for transparent SVGs */
     padding: 5%;
+}
+.blog-img-wrapper {
+    border-radius: 0.5rem;
+    background-color: #e0e0e0;
+    /* fallback for transparent SVGs */
+    padding: 5%;
+}
+.blog-title {
+    font-size: clamp(1.75rem, 3vw, 2.5rem);
+    color: #333;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 1rem 0;
 }

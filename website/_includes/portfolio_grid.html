@@ -16,8 +16,12 @@
               <i class="fa fa-search-plus fa-3x"></i>
             </div>
           </div>
-          <img src="img/portfolio/{{ project.img }}" class="portfolio-img" alt="{{ project.alt }}" />
+          <div class="portfolio-img-wrapper">
+            <img src="img/portfolio/{{ project.img }}" class="portfolio-img" alt="{{ project.alt }}" />
+            <div class="portfolio-title">{{ project.title }}</div>
+          </div>
         </a>
+       
       </div>
       {% endfor %}
     </div>

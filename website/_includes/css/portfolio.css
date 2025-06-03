@@ -11,6 +11,10 @@
     max-width: 400px;
 }
 
+#portfolio .portfolio-item .portfolio-link {
+    text-decoration: none !important;
+}
+
 #portfolio .portfolio-item .portfolio-link .caption {
     position: absolute;
     width: 100%;
@@ -63,6 +67,14 @@
 
 /* Flexbox Portfolio Grid */
 @media (min-width: 640px) {
+    .portfolio-title {
+            font-size: clamp(1.25rem, 4vw, 3.5rem) !important;
+            color: #333;
+            text-align: center;
+            text-transform: uppercase;
+            font-weight: bold;
+            padding: 1rem 0;
+        }
     .portfolio-flex-grid .portfolio-flex-row {
         display: flex;
         flex-flow: row wrap;
@@ -158,8 +170,20 @@
     aspect-ratio: 4 / 3;
     height: auto;
     object-fit: scale-down;
+
+}
+.portfolio-img-wrapper {
     border-radius: 0.5rem;
     background-color: #e0e0e0;
     /* fallback for transparent SVGs */
     padding: 5%;
+}
+
+.portfolio-title {
+    font-size: clamp(1.75rem, 3vw, 2.5rem);
+    color: #333;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 1rem 0;
 }

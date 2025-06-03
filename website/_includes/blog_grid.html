@@ -16,7 +16,11 @@
                     <i class="fa fa-search-plus fa-3x"></i>
                 </div>
                 </div>
-                <img src="img/blog/{{ blog.img }}" class="blog-img" alt="{{ blog.alt }}" />
+                <div class="blog-img-wrapper">
+                    <img src="img/blog/{{ blog.img }}" class="blog-img" alt="{{ blog.alt }}" />
+                    <div class="blog-title">{{ blog.title }}</div>
+                </div>
+
             </a>
             </div>
             {% endfor %}
